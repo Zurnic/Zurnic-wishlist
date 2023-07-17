@@ -1,4 +1,4 @@
-title:Randy's Throwing Knife
+title:Zurnic's Wishlist
 
 // Randy's Throwing Knife - Kill Clip (pvp)
 //notes: tags:pvp
